@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GroFastDelivery</string>
+    <string name="element_text">text</string>
+    <string name="fruit_dummy_name">Farm fresh Oranges</string>
+    <string name="dummy_fruit_category">Fruit</string>
+    <string name="dummy_price_of_fruit">₹120.00 per kg</string>
+    <string name="welcome">Welcome</string>
+    <string name="app_user">Sourav Nath</string>
+    <string name="default_query">Search Grofast</string>
+    <string name="all">ALL</string>
+    <string name="fruit">Fruit</string>
+    <string name="vegetables">Vegetables</string>
+    <string name="meat">Meat</string>
+    <string name="dairy">Dairy</string>
+    <string name="hello">Hello World!</string>
+</resources>
